@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-servicemanager-di",
+    "name": "slogancoopers/laminas-servicemanager-di",
     "description": "laminas-di integration for laminas-servicemanager",
     "license": "BSD-3-Clause",
     "keywords": [
